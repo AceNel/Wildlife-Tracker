@@ -6,6 +6,9 @@ plugins {
 group '.com'
 version '1.0-SNAPSHOT'
 
+applicationName = "Wildlife_Tracker"
+mainClassName = 'App'
+
 
 sourceCompatibility = 1.8
 
@@ -21,9 +24,8 @@ dependencies {
     compile 'org.sql2o:sql2o:1.5.4'
     compile group: 'postgresql', name: 'postgresql', version: '9.0-801.jdbc4'
     compile group: 'org.postgresql', name: 'postgresql', version: '42.2.2'
-    compile "com.sparkjava:spark-core:2.6.0"
+
 }
 
-applicationName = "todo"
-mainClassName = 'App'
+
 task stage(dependsOn: ['clean', 'installDist'])
