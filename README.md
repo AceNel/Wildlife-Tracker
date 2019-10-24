@@ -2,15 +2,13 @@
 
 #                                                         WILDLIFE TRACKER! :paw_prints:
 
-# DISPLAY
-
 ## AUTHOR
 
 NELSON KIMANI
 
 ## DESCRIPTION :page_with_curl: :paw_prints:
 
-This application allows Rangers to track wildlife sightings in the area, record them and ensure the animals are isolated to a safer zone. All with the help of a user-friendly interface and fast database.
+This application allows Rangers to track wildlife sightings in the area, record them and ensure the animals are isolated to a safer zone.
 
 [Check-Out App!](https://tracker-wild-life4.herokuapp.com)
 
